@@ -8,6 +8,7 @@
 int main()
 {
 	GestionMedecin *gm = new GestionMedecin(NULL, NULL, NULL);
+	int i = 0;
     return 0;
 }
 
